@@ -5,6 +5,8 @@ void LetterToMorseCode(int delayMs, int pin) {
     digitalWrite(pin, LOW);
     delay(delayMs);
   }
+
+  delay(500); // For separation between letters
 }
 
 void setup() {
@@ -18,8 +20,8 @@ void loop() {
   // S = . . .
   LetterToMorseCode(delayMs, pin);
 
-  // O = - - 
-  LetterToMorseCode(delayMs * 2, pin);
+  // O = - - -
+  LetterToMorseCode(delayMs * 3, pin);
 
   // S = . . .
   LetterToMorseCode(delayMs, pin);
