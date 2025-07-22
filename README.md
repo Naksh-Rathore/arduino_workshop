@@ -13,10 +13,44 @@ This includes many short examples about different components to get you started 
 ### Step 1
 Run `git clone https://github.com/Naksh-Rathore/arduino_workshop`
 
-## Step 2
+### Step 2
 Run `cd <example>`
 
-## Step 3
-Recreate the schematicbr />
+### Step 3
+Recreate the schematic<br />
 
 Example:<br /> 
+![Example Schematic](led_line/led_line.png)
+
+### Step 4
+Run the code<br />
+
+Example:<br />
+```cpp
+void cycleLight(int pin) {
+  digitalWrite(pin, HIGH);
+  delay(250);
+  digitalWrite(pin, LOW);
+}
+
+void setup() {
+  // put your setup code here, to run once:
+
+  for (int i = 8; i <= 10; i++) {
+    pinMode(i, OUTPUT);
+  }
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+  for (int i = 8; i <= 10; i++) {
+    cycleLight(i);
+  }
+}
+```
+
+### Step 5
+Modify and test!
+
+## Have Fun!
