@@ -11,7 +11,7 @@ This includes many short examples about different components to get you started 
 ## How to use
 
 ### Step 1
-Run `git clone https://github.com/Naksh-Rathore/arduino_workshop`
+Run `git clone https://github.com/Naksh-Rathore/arduino_workshop.git`
 
 ### Step 2
 Run `cd <example>`
