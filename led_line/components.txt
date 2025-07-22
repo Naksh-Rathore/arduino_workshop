@@ -1,0 +1,5 @@
+Arduino
+Breadboard
+330 Ohm Resistor (x3)
+LED (x3)
+Wires
