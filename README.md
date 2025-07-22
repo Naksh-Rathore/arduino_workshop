@@ -14,18 +14,18 @@ This includes many short examples about different components to get you started 
 Run `git clone https://github.com/Naksh-Rathore/arduino_workshop.git`
 
 ### Step 2
-Run `cd <example>`
+Run `cd <example>`, `<example>` being the **folder/directory** of the example you want to do
 
 ### Step 3
 Recreate the schematic<br />
 
-Example:<br /> 
+**Example**:<br /> 
 ![Example Schematic](led_line/led_line.png)
 
 ### Step 4
-Run the code<br />
+Copy-paste the code into Arduino IDE, then run it<br />
 
-Example:<br />
+**Example**:<br />
 ```cpp
 void cycleLight(int pin) {
   digitalWrite(pin, HIGH);
@@ -51,6 +51,6 @@ void loop() {
 ```
 
 ### Step 5
-Modify and test!
+**Modify and test!**
 
 ## Have Fun!
