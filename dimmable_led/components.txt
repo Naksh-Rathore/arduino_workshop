@@ -1,0 +1,6 @@
+Arduino
+Breadboard
+Wires
+Potentiometer
+LED
+330 Ohm Resistor
