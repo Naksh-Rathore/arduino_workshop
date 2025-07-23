@@ -29,12 +29,9 @@ void setup() {
 }
 
 void loop() {
-  char binary[17];
-
-  for (int i = 0; i <= 15; i++) {
-    itoa(i, binary, 2);
-    displayBinaryToLEDs(binary);
-
-    delay(DELAY_MS * 2); // To separate each number
-  }
+  char binary[] = "0001"; // Change this number
+  
+  displayBinaryToLEDs(binary);
+  
+  delay(DELAY_MS * 2);
 }
