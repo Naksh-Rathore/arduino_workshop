@@ -25,7 +25,7 @@ Run `cd <example>`, `<example>` being the **folder/directory** of the example yo
 Recreate the schematic<br />
 
 **Example**:<br /> 
-![Example Schematic](led_line/led_line.png)
+![Example Schematic](led_line/assets/led_line.png)
 
 ### Step 4
 Copy-paste the code into Arduino IDE, then run it<br />
