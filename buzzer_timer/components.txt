@@ -1,0 +1,6 @@
+Arduino
+Breadboard
+Wires
+Active Buzzer
+LED (x4)
+330 Ohm Resistor (x4)
