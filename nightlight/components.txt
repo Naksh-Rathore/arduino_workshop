@@ -1,0 +1,7 @@
+Arduino
+Breadboard
+Wires
+330 Ohm Resistor
+1.1k Ohm Resistor
+Photoresistor (LDR)
+LED
