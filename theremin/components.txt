@@ -1,0 +1,6 @@
+- Passive Buzzer
+- 10K Ohm Resistor
+- Photoresistor (LDR)
+- Arduino
+- Jumper Wires
+- Breadboard
