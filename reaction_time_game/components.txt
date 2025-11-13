@@ -1,0 +1,6 @@
+- Breadboard
+- Jumper Wires
+- LED
+- 330 Ohm Resistor
+- Servo Motor
+- Push button (2x)
