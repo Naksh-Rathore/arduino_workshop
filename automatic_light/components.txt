@@ -1,0 +1,5 @@
+- Arduino
+- Breadboard
+- Jumper Wires
+- PIR Sensor
+- Micro Servo
