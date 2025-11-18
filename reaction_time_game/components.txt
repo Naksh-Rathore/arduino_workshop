@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 - Breadboard
 - Jumper Wires
 - LED
 - 330 Ohm Resistor
 - Servo Motor
 - Push button (2x)
+=======
+- Arduino
+- Breadboard
+- Jumper Wires
+- LED
+- 330 Ohm Resistor
+- Servo Motor
+- Push button (2x)
+>>>>>>> b89dbf737f445e9032c215a3d059c145adc9db1b
